@@ -4,7 +4,7 @@ import jwt from "jsonwebtoken";
 import razorpay from 'razorpay';
 import transactionModel from '../models/transactionModel.js'
 import dotenv from 'dotenv'
-dotenv.config({ path: '../.env' });
+dotenv.config({ path: '.env' });
 
 
 
