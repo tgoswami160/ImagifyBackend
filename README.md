@@ -36,7 +36,7 @@ backend/
 
 ## ⚙️ Installation
 ```bash
-git clone <[repo-url](https://github.com/tgoswami160/ImagifyBackend.git)>
+git clone https://github.com/tgoswami160/ImagifyBackend.git
 npm install
 npm start
 ```
